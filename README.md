@@ -1,27 +1,24 @@
-# CV_Example
+# CV_valentinacalderon
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Daira Valentina Calderon Lopez
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** +57 3114859422
+- **Email:** (valentinacalderonlopez19@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)
+- Analista y desarrollador de software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **APRENDIZ SENA** _(2025 - 2027)_
+- Analista y desarrollador de software.
 
 ## 💡 Habilidades
-- **Habilidad 1**
+- **Responsabilidad**
 - **Habilidad 2**
 - **Habilidad 3**
 
