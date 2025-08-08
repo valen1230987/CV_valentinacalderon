@@ -14,8 +14,7 @@
 - Analista y desarrollador de software.
 
 ## 🎓 Educación
-### **Bachiller** _(2024)_
-### **Tecninco en resursos humanos** _(2024)_
+
 ### **APRENDIZ SENA** _(2025 - 2027)_
 - Analista y desarrollador de software.
   
@@ -29,8 +28,8 @@
 
 ## 🎨 Formatos y Fuentes Disponibles
 
-### **Negrita:**
-- `**Texto en negrita**` → **Texto en negrita**
+### **Bachiller:**
+- `**Bachiller colegio jaime garzón` → **Tecnico en recursos humanos**
 
 ### **Cursiva:**
 - `*Texto en cursiva*` → *Texto en cursiva*
