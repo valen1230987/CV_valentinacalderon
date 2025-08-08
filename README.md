@@ -7,15 +7,18 @@
 ## 📞 Contacto
 - **Teléfono:** +57 3114859422
 - **Email:** (valentinacalderonlopez19@gmail.com)
-- **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
+- **LinkedIn:** (www.linkedin.com/in/valentina-calderon-727263337)
 
 ## 🏢 Experiencia Laboral
 ### **Sena** _(2025 - Actualidad)
 - Analista y desarrollador de software.
 
 ## 🎓 Educación
+### **Bachiller** _(2024)_
+### **Tecninco en resursos humanos** _(2024)_
 ### **APRENDIZ SENA** _(2025 - 2027)_
 - Analista y desarrollador de software.
+  
 
 ## 💡 Habilidades
 - **Responsabilidad**
