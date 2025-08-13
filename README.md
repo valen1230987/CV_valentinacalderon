@@ -28,23 +28,8 @@
 
 ## 🎨 Formatos y Fuentes Disponibles
 
+
 ### **Bachiller:**
 - `**Bachiller colegio jaime garzón` → **Tecnico en recursos humanos**
 
-
-
-### **Enlaces:**
-- `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
-
-### **Imágenes:**
-- `![Texto alternativo](https://ejemplo.com/imagen.jpg)`
-
-### **Tablas:**
-| Encabezado 1 | Encabezado 2 |
-|-------------|-------------|
-| Dato 1     | Dato 2      |
-
----
-
-Esta plantilla en Markdown es editable y adaptable para cada estudiante. ¡Personaliza según sea necesario! 🎯
 
