@@ -21,8 +21,8 @@
 
 ## 💡 Habilidades
 - **Responsabilidad**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Pensamiento lógico**
+- **Escucha activa**
 
 ---
 
@@ -31,30 +31,7 @@
 ### **Bachiller:**
 - `**Bachiller colegio jaime garzón` → **Tecnico en recursos humanos**
 
-### **Cursiva:**
-- `*Texto en cursiva*` → *Texto en cursiva*
-- `_Texto en cursiva_` → _Texto en cursiva_
 
-### **Combinado:**
-- `***Texto en negrita y cursiva***` → ***Texto en negrita y cursiva***
-
-### **Encabezados:**
-- `# Encabezado 1`
-- `## Encabezado 2`
-- `### Encabezado 3`
-
-### **Citas:**
-> Esto es una cita
-
-### **Código:**
-- `` `código en línea` `` → `código en línea`
-- ```
-  Código en bloque
-  ```
-
-### **Listas:**
-- `- Elemento de lista`
-- `1. Elemento numerado`
 
 ### **Enlaces:**
 - `[Texto del enlace](https://ejemplo.com)` → [Texto del enlace](https://ejemplo.com)
